@@ -5,5 +5,5 @@ I am a backend engineer specializing in C# and .NET development. I enjoy solving
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinWu2023)](https://github.com/anuraghazra/github-readme-stats)
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?animation=ANIMATION)
 
