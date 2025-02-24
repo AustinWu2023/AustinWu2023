@@ -4,7 +4,5 @@ I am a backend engineer specializing in C# and .NET development. I enjoy solving
 - 📫 How to reach me: satozues@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AustinWu2023)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinWu2023)](https://github.com/anuraghazra/github-readme-stats)
 
