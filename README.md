@@ -24,14 +24,15 @@ Recently, I've been focusing on **MES (Manufacturing Execution System)** develop
 - **Kubernetes** – microservices orchestration
 
 
-I enjoy learning new technologies, but I care more about whether they can be used reliably in production.
+---
 
-My focus is on building and refining backend systems for MES and industrial environments,
-where stability, predictability, and operational clarity matter more than hype.
+I like learning new technologies, but I care even more about putting them into production.
 
-I’m passionate about backend engineering, system architecture, and real-time industrial systems.
+Instead of chasing trends, I enjoy steadily improving systems until they’re reliable, predictable,
+and easy to operate over the long term.
 
-
+If you’re interested in backend engineering, system architecture, or MES / industrial systems,
+feel free to connect.
 
 - 📫 How to reach me: austinnanwu@gmail.com
 
