@@ -35,8 +35,3 @@ If you’re interested in backend engineering, system architecture, or MES / ind
 feel free to connect.
 
 - 📫 How to reach me: austinnanwu@gmail.com
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinWu2023)](https://github.com/anuraghazra/github-readme-stats)
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?animation=ANIMATION)
-
