@@ -6,14 +6,22 @@ I spend most of my time dealing with complex business logic, system performance,
 
 Recently, I've been focusing on **MES (Manufacturing Execution System)** development. The system is built with a **microservices architecture**, which means a lot of real-world challenges around manufacturing workflows, real-time device data, and system integration. Because of that, I care a lot about **stability, scalability, and long-term maintainability**.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
+### Application
 - **C# / .NET 8**
-- **PostgreSQL**, **Redis**
-- **MQTT** (real-time device communication)
-- **InfluxDB** (time-series data)
-- **Docker** (containerization)
-- **Kubernetes** (microservices orchestration)
+
+### Data Layer
+- **Relational DB (Primary)**: PostgreSQL, MSSQL, MySQL  
+- **In-memory Cache**: Redis  
+- **Time-series Storage**: InfluxDB  
+
+### Communication
+- **MQTT** – real-time device & machine communication
+
+### DevOps & Infrastructure
+- **Docker** – containerized services
+- **Kubernetes** – microservices orchestration
 
 I like learning new technologies, but I care even more about actually using them in production.  
 Rather than chasing trends, I enjoy steadily refining systems until they’re reliable, predictable, and easy to operate.
